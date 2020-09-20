@@ -1,7 +1,7 @@
 ### Here are some projects that you might want to see;
 
 #### Projects
-[GitHub Manager Explore](https://github.com/joaomede/github-manager-explore) - (Typescript - Vue - Vuetify - Apollo-Vue - Composition-API - TSX)
+[GitHub Manager Explore](https://github.com/joaomede/github-manager-explore) - (Typescript - Vue - Vuetify - Apollo-Vue - Composition-API - TSX)  
 [Api Doc](https://github.com/joaomede/Api-Doc) - (Vuejs - Quasar - Javascript - Typescript - Rest API - ExpressJS - Authentication)  
 [Api Doc - JS SDK](https://github.com/joaomede/api-doc-js-sdk-) - (Typescript - SDK - Knex - Postgres)  
 [Auto Docker Deploy](https://github.com/joaomede/Auto-Deploy-Docker) - (Vuejs - Typescript - Dockerode - Authentication)  
