@@ -6,7 +6,9 @@
 [Api Doc - JS SDK](https://github.com/joaomede/api-doc-js-sdk-) - (Typescript - SDK - Knex - Postgres)  
 [Auto Docker Deploy](https://github.com/joaomede/Auto-Deploy-Docker) - (Vuejs - Typescript - Dockerode - Authentication)  
 [Resp-Express](https://github.com/joaomede/resp-express) - (NPM Package - Typescript - Test Unit - Test Integration - Jest - ExpressJS)  
-[ChecklistPessoal-Quasar](https://github.com/joaomede/ChecklistPessoal-Quasar) - (Vuejs - Quasar - Firebase - Authentication - CRUD)
+[ChecklistPessoal-Quasar](https://github.com/joaomede/ChecklistPessoal-Quasar) - (Vuejs - Quasar - Firebase - Authentication - CRUD)  
+[QuickStart Vuejs 3 TSX](https://github.com/joaomede/QuickStart-Vuejs-3-TSX) - (Vuejs - Vue 3x - TSX - QuickStart - Setup)  
+[Docker Monitor (Azure Function)](https://github.com/joaomede/docker-monitor-azure-function) - (Serveless - Azure - Dockerode - Docker Monitor - Nodejs)
 
 
 #### Simple Examples
@@ -15,6 +17,7 @@
 ### About ME
 - 🌱 I like to study several things, like frontend technologies and new frontend / backend approaches, I like to look for new things and learn about them.
 - 📫 joaoserj@gmail.com
+- :houses: https://joaomede.github.io/
 - 😄 Pronouns: Eng: He - PT: Ele
 - 👯 I’m looking to collaborate on unit tests, integration tests, vuejs frontend projects and API's Rest / Graph
 
