@@ -9,7 +9,7 @@
 [Docker Monitor (Azure Function)](https://github.com/joaomede/docker-monitor-azure-function) - (Serveless - Azure - Dockerode - Docker Monitor - NodeJS)
 
 #### Libs
-[Api Doc - JS SDK](https://github.com/joaomede/api-doc-js-sdk-) - (NPM Package - Typescript - SDK - Knex - Postgres)  
+[Api Doc - JS SDK](https://github.com/joaomede/api-doc-js-sdk) - (NPM Package - Typescript - SDK - Knex - Postgres)  
 [Resp-Express](https://github.com/joaomede/resp-express) - (NPM Package - Typescript - Test Unit - Test Integration - Jest - ExpressJS)  
 
 #### Simple Examples
