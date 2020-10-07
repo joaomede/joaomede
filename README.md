@@ -17,7 +17,7 @@
 <a href="https://www.ecma-international.org/ecma-262/" title="Javascript"><img src="logos/javascript.svg" alt="Javascript" width="21px" height="21px"></a> - 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> - 
 <a href="https://www.docker.com/" title="Docker Container"><img src="logos/docker-icon.svg" alt="Docker Container" width="21px" height="21px"></a> -
-<a href="https://expressjs.com/" title="ExpressJS"><img src="logos/express.svg" alt="ExpressJS" width="21px" height="21px"></a>
+<a href="https://expressjs.com/" title="ExpressJS"><img src="logos/express.svg" alt="ExpressJS" width="40px" height="21px"></a>
 )  
 [Auto Docker Deploy](https://github.com/joaomede/Auto-Deploy-Docker) - 
 (
@@ -27,7 +27,7 @@
 <a href="https://www.ecma-international.org/ecma-262/" title="Javascript"><img src="logos/javascript.svg" alt="Javascript" width="21px" height="21px"></a> - 
 <a href="https://www.docker.com/" title="Docker Container"><img src="logos/docker-icon.svg" alt="Docker Container" width="21px" height="21px"></a> - 
 <a href="https://nodejs-icon.org/en/" title="NodeJS"><img src="logos/nodejs-icon.svg" alt="NodeJS" width="21px" height="21px"></a> - 
-<a href="https://expressjs.com/" title="ExpressJS"><img src="logos/express.svg" alt="ExpressJS" width="21px" height="21px"></a>
+<a href="https://expressjs.com/" title="ExpressJS"><img src="logos/express.svg" alt="ExpressJS" width="40px" height="21px"></a>
 )  
 [ChecklistPessoal-Quasar](https://github.com/joaomede/ChecklistPessoal-Quasar) - 
 (
@@ -66,7 +66,7 @@
 Test Unit - 
 Test Integration - 
 ExpressJS
-)
+)  
 [Juno-Payments](https://github.com/joaomede/juno-payments) - (
 <a href="https://www.typescriptlang.org/" title="NPM Package"><img src="logos/npm.svg" alt="NPM Package" width="21px" height="21px"></a> - 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> - 
