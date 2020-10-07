@@ -43,7 +43,7 @@
 ) "TSX"  
 [Docker Monitor (Azure Function)](https://github.com/joaomede/docker-monitor-azure-function) - (
 <a href="https://azure.microsoft.com/" title="Serveless"><img src="logos/serveless.svg" alt="Serveless" width="21px" height="21px"></a> - 
-<a href="https://azure.microsoft.com/" title="Azure"><img src="logos/azure.svg" alt="Azure" width="21px" height="21px"></a> - 
+<a href="https://azure.microsoft.com/" title="Azure"><img src="logos/azure-icon.svg" alt="Azure" width="21px" height="21px"></a> - 
 <a href="https://nodejs-icon.org/en/" title="NodeJS"><img src="logos/nodejs-icon.svg" alt="NodeJS" width="21px" height="21px"></a>
 )
 
