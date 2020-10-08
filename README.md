@@ -70,7 +70,8 @@ ExpressJS
 [Juno-Payments](https://github.com/joaomede/juno-payments) - (
 <a href="https://www.typescriptlang.org/" title="NPM Package"><img src="logos/npm.svg" alt="NPM Package" width="21px" height="21px"></a> - 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> - 
-<a href="https://nodejs-icon.org/en/" title="NodeJS"><img src="logos/nodejs-icon.svg" alt="NodeJS" width="21px" height="21px"></a>
+<a href="https://nodejs-icon.org/en/" title="NodeJS"><img src="logos/nodejs-icon.svg" alt="NodeJS" width="21px" height="21px"></a> - 
+<a href="https://jestjs.io/" title="Jest"><img src="logos/jest.svg" alt="Jest" width="21px" height="21px"></a>
 ) "Wrapper Plataforma de Pagamento"  
 
 #### Simple Examples
