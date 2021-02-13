@@ -72,7 +72,10 @@ ExpressJS
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> - 
 <a href="https://nodejs-icon.org/en/" title="NodeJS"><img src="logos/nodejs-icon.svg" alt="NodeJS" width="21px" height="21px"></a> - 
 <a href="https://jestjs.io/" title="Jest"><img src="logos/jest.svg" alt="Jest" width="21px" height="21px"></a>
-) "Wrapper Plataforma de Pagamento"  
+) "Wrapper Plataforma de Pagamento"   
+[Cordova-Launcher-List-App](https://github.com/joaomede/cordova-launcher-list-app) - (
+<a href="https://www.npmjs.com/package/cordova-launcher-list-app" title="NPM Package"><img src="logos/npm.svg" alt="NPM Package" width="21px" height="21px"></a> - 
+) "Cordova Plugin - List Package Installed / Launcher"  
 
 #### Simple Examples
 
