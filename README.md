@@ -49,6 +49,11 @@
 
 #### Libs
 
+[Vue3-Json-Editor](https://github.com/joaomede/vue3-json-editor) - 
+(
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> - 
+<a href="https://vuejs.org/" title="VueJS"><img src="logos/vue.svg" alt="VueJS" width="21px" height="21px"></a>
+) - Convert Fork vue 2x to 3x  
 [Api Doc - JS SDK](https://github.com/joaomede/api-doc-js-sdk) - 
 (
 <a href="https://www.npmjs.com/" title="NPM Package"><img src="logos/npm.svg" alt="NPM Package" width="21px" height="21px"></a> - 
