@@ -98,7 +98,6 @@ Reactivity in Depth Concept
 ### About ME
 
 -   🌱 I like to study several things, like frontend technologies and new frontend / backend approaches, I like to look for new things and learn about them.
--   📫 joaoserj@gmail.com
 -   :houses: https://joaomede.github.io/
 -   😄 Pronouns: Eng: He - PT: Ele
 -   👯 I’m looking to collaborate on unit tests, integration tests, vuejs frontend projects and API's Rest / Graph
