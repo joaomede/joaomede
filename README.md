@@ -44,6 +44,10 @@ I'm a technology enthusiast focused on systems development, with a postgraduate 
 - **[Auto Docker Deploy](https://github.com/joaomede/Auto-Deploy-Docker)**  
   _Vue + TS + Docker_ — Local deployment pipeline integrated with Docker environments.
 
+- **[GPT Multi Agents](https://github.com/joaomede/gpt-multi-agents)**  
+  _Vue + LLM + Local State Caching_ — Multi-agent contextual chatroom where users interact with distinct AI personas.  
+  Each agent receives the full conversation history, including previous answers and agent identities, enabling consistent and specialized contextual responses.
+
 #### 🛠️ Libraries & SDKs
 
 - **[vue3-xlsx](https://github.com/joaomede/vue3-xlsx)**  
