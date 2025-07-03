@@ -1,118 +1,84 @@
-### Here are some projects that you might want to see;
+<h1 align="center">João Medeiros</h1>
+<p align="center">
+  <em>System Architect • Data Scientist</em>
+</p>
 
-#### Projects
+---
 
-[GitHub Manager Explore](https://github.com/joaomede/github-manager-explore) - 
-(
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> -
-<a href="https://vuejs.org/" title="VueJS"><img src="logos/vue.svg" alt="VueJS" width="21px" height="21px"></a> - <a href="https://vuetifyjs.com/en/" title="Vuetify"><img src="logos/vuetifyjs.svg" alt="Vuetify" width="21px" height="21px"></a> - 
-<a href="https://graphql.org/" title="GraphQL"><img src="logos/graphql.svg" alt="GraphQL" width="21px" height="21px"></a> -
-<a href="https://www.apollographql.com/" title="Apollo Vue"><img src="logos/apollostack.svg" alt="Apollo Vue" width="21px" height="21px"></a> - 
-<a href="https://jestjs.io/" title="Jest"><img src="logos/jest.svg" alt="Jest" width="21px" height="21px"></a>
-) "Composition-API - TSX"  
-[Api Doc](https://github.com/joaomede/Api-Doc) - 
-(
-<a href="https://vuejs.org/" title="VueJS"><img src="logos/vue.svg" alt="VueJS" width="21px" height="21px"></a> - 
-<a href="https://quasar.dev/" title="Quasar"><img src="logos/quasar-logo.svg" alt="Quasar" width="21px" height="21px"></a> - 
-<a href="https://www.ecma-international.org/ecma-262/" title="Javascript"><img src="logos/javascript.svg" alt="Javascript" width="21px" height="21px"></a> - 
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> - 
-<a href="https://www.docker.com/" title="Docker Container"><img src="logos/docker-icon.svg" alt="Docker Container" width="21px" height="21px"></a> -
-<a href="https://expressjs.com/" title="ExpressJS"><img src="logos/express.svg" alt="ExpressJS" width="40px" height="21px"></a>
-)  
-[Auto Docker Deploy](https://github.com/joaomede/Auto-Deploy-Docker) - 
-(
-<a href="https://vuejs.org/" title="VueJS"><img src="logos/vue.svg" alt="VueJS" width="21px" height="21px"></a> -
-<a href="https://vuetifyjs.com/en/" title="Vuetify"><img src="logos/vuetifyjs.svg" alt="Vuetify" width="21px" height="21px"></a> - 
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> - 
-<a href="https://www.ecma-international.org/ecma-262/" title="Javascript"><img src="logos/javascript.svg" alt="Javascript" width="21px" height="21px"></a> - 
-<a href="https://www.docker.com/" title="Docker Container"><img src="logos/docker-icon.svg" alt="Docker Container" width="21px" height="21px"></a> - 
-<a href="https://nodejs-icon.org/en/" title="NodeJS"><img src="logos/nodejs-icon.svg" alt="NodeJS" width="21px" height="21px"></a> - 
-<a href="https://expressjs.com/" title="ExpressJS"><img src="logos/express.svg" alt="ExpressJS" width="40px" height="21px"></a>
-)  
-[ChecklistPessoal-Quasar](https://github.com/joaomede/ChecklistPessoal-Quasar) - 
-(
-<a href="https://vuejs.org/" title="VueJS"><img src="logos/vue.svg" alt="VueJS" width="21px" height="21px"></a> - 
-<a href="https://quasar.dev/" title="Quasar"><img src="logos/quasar-logo.svg" alt="Quasar" width="21px" height="21px"></a> - 
-<a href="https://www.ecma-international.org/ecma-262/" title="Javascript"><img src="logos/javascript.svg" alt="Javascript" width="21px" height="21px"></a> - 
-<a href="https://firebase.com/" title="Firebase"><img src="logos/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
-)  
-[QuickStart Vuejs 3 TSX](https://github.com/joaomede/QuickStart-Vuejs-3-TSX) - 
-(
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> - 
-<a href="https://vuejs.org/" title="VueJS"><img src="logos/vue.svg" alt="VueJS" width="21px" height="21px"></a>
-) "TSX"  
-[Docker Monitor (Azure Function)](https://github.com/joaomede/docker-monitor-azure-function) - (
-<a href="https://azure.microsoft.com/" title="Serveless"><img src="logos/serveless.svg" alt="Serveless" width="21px" height="21px"></a> - 
-<a href="https://azure.microsoft.com/" title="Azure"><img src="logos/azure-icon.svg" alt="Azure" width="21px" height="21px"></a> - 
-<a href="https://nodejs-icon.org/en/" title="NodeJS"><img src="logos/nodejs-icon.svg" alt="NodeJS" width="21px" height="21px"></a>
-)
+### 🧠 About Me
 
-#### Libs
+I'm a technology enthusiast focused on systems development, with a postgraduate degree in **Data Science – Analysis and Statistics**. I’m passionate about exploring new ideas, working with modern stacks, and building robust, scalable solutions with attention to testing and clean architecture.
 
-[vue3-xlsx](https://github.com/joaomede/vue3-xlsx) - 
-(
-<a href="https://www.npmjs.com/" title="NPM Package"><img src="logos/npm.svg" alt="NPM Package" width="21px" height="21px"></a> - 
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> - 
-<a href="https://vuejs.org/" title="VueJS"><img src="logos/vue.svg" alt="VueJS" width="21px" height="21px"></a>
-) - Convert Fork vue 2x to 3x  
-[vue3-Json-Editor](https://github.com/joaomede/vue3-json-editor) - 
-(
-<a href="https://www.npmjs.com/" title="NPM Package"><img src="logos/npm.svg" alt="NPM Package" width="21px" height="21px"></a> - 
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> - 
-<a href="https://vuejs.org/" title="VueJS"><img src="logos/vue.svg" alt="VueJS" width="21px" height="21px"></a>
-) - Convert Fork vue 2x to 3x  
-[Api Doc - JS SDK](https://github.com/joaomede/api-doc-js-sdk) - 
-(
-<a href="https://www.npmjs.com/" title="NPM Package"><img src="logos/npm.svg" alt="NPM Package" width="21px" height="21px"></a> - 
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> - 
-<a href="https://nodejs-icon.org/en/" title="NodeJS"><img src="logos/nodejs-icon.svg" alt="NodeJS" width="21px" height="21px"></a> - 
-<a href="http://knexjs.org/" title="Knex"><img src="logos/knex.svg" alt="Knex" width="21px" height="21px"></a> - 
-<a href="https://vuejs.org/" title="PostgreSQL"><img src="logos/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a> - 
-<a href="https://jestjs.io/" title="Jest"><img src="logos/jest.svg" alt="Jest" width="21px" height="21px"></a>
-)  
-[Resp-Express](https://github.com/joaomede/resp-express) - (
-<a href="https://www.typescriptlang.org/" title="NPM Package"><img src="logos/npm.svg" alt="NPM Package" width="21px" height="21px"></a> - 
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> - 
-<a href="https://nodejs-icon.org/en/" title="NodeJS"><img src="logos/nodejs-icon.svg" alt="NodeJS" width="21px" height="21px"></a> - 
-<a href="https://jestjs.io/" title="Jest"><img src="logos/jest.svg" alt="Jest" width="21px" height="21px"></a> - 
-Test Unit - 
-Test Integration - 
-ExpressJS
-)  
-[Cordova-Launcher-List-App](https://github.com/joaomede/cordova-launcher-list-app) - (
-<a href="https://www.npmjs.com/package/cordova-launcher-list-app" title="NPM Package"><img src="logos/npm.svg" alt="NPM Package" width="21px" height="21px"></a> - 
-) "Cordova Plugin - List Package Installed / Launcher"  
+- 🎓 Postgraduate in Data Science: Analysis & Statistics
+- 🌱 Always learning: Modern frontend, modular backend, scalable architecture, and data engineering.
+- 🤝 Open to collaboration in: Vue.js, REST/GraphQL APIs, unit/integration testing, and data-driven applications.
+- 🌐 Website: [joaomede.github.io](https://joaomede.github.io/)
+- 😄 Pronouns: **He/Him** | **Ele/Dele**
 
-#### Simple Examples
+---
 
-[Vue CDN CRUD Example - (With Reactivity in Depth)](https://github.com/joaomede/Vue-CDN-Vuetify-CrudExample) - 
-(
-<a href="https://www.ecma-international.org/ecma-262/" title="Javascript"><img src="logos/javascript.svg" alt="Javascript" width="21px" height="21px"></a> - 
-<a href="https://vuejs.org/" title="VueJS"><img src="logos/vue.svg" alt="VueJS" width="21px" height="21px"></a> - 
-<a href="https://vuetifyjs.com/en/" title="Vuetify"><img src="logos/vuetifyjs.svg" alt="Vuetify" width="21px" height="21px"></a> - 
-CDN - 
-DataTable - 
-Reactivity in Depth Concept
-)
+### 🧰 Tech Stack
 
-### About ME
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![VueJS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Quasar](https://img.shields.io/badge/-Quasar-1976D2?style=flat&logo=quasar&logoColor=white)
+![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 
--   🌱 I like to study several things, like frontend technologies and new frontend / backend approaches, I like to look for new things and learn about them.
--   :houses: https://joaomede.github.io/
--   😄 Pronouns: Eng: He - PT: Ele
--   👯 I’m looking to collaborate on unit tests, integration tests, vuejs frontend projects and API's Rest / Graph
+---
 
-<!--
-**joaomede/joaomede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧩 Featured Projects
 
-Here are some ideas to get you started:
+#### 🔍 Frontend & Fullstack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[GitHub Manager Explore](https://github.com/joaomede/github-manager-explore)**  
+  _Vue 3 + TSX + GraphQL + Apollo_ — Rich interface for exploring users and repositories via GitHub GraphQL API.
+
+- **[Api Doc](https://github.com/joaomede/Api-Doc)**  
+  _Quasar + Express + Docker_ — Dynamic API documentation system with a frontend manager.
+
+- **[Auto Docker Deploy](https://github.com/joaomede/Auto-Deploy-Docker)**  
+  _Vue + TS + Docker_ — Local deployment pipeline integrated with Docker environments.
+
+#### 🛠️ Libraries & SDKs
+
+- **[vue3-xlsx](https://github.com/joaomede/vue3-xlsx)**  
+  Migration from Vue 2.x to 3.x for XLSX export utility.
+
+- **[vue3-json-editor](https://github.com/joaomede/vue3-json-editor)**  
+  Visual JSON editor using Vue 3 with full schema support.
+
+- **[api-doc-js-sdk](https://github.com/joaomede/api-doc-js-sdk)**  
+  JS SDK to consume the **Api Doc** APIs — PostgreSQL + Jest tested.
+
+- **[resp-express](https://github.com/joaomede/resp-express)**  
+  Structured response boilerplate for NodeJS APIs with full test suite.
+
+#### 🧪 Educational & Templates
+
+- **[Vue CDN CRUD Example](https://github.com/joaomede/Vue-CDN-Vuetify-CrudExample)**  
+  Lightweight CRUD using Vue via CDN — focuses on deep reactivity and Vuetify 2.
+
+- **[Checklist Pessoal - Quasar](https://github.com/joaomede/ChecklistPessoal-Quasar)**  
+  Personal task list using local storage and modern Quasar UI.
+
+- **[QuickStart Vue 3 TSX](https://github.com/joaomede/QuickStart-Vuejs-3-TSX)**  
+  Minimal template using Vue 3 + TSX to kickstart new projects.
+
+- **[Docker Monitor (Azure Function)](https://github.com/joaomede/docker-monitor-azure-function)**  
+  Remote Docker monitoring using Azure Functions (serverless).
+
+---
+
+### 💬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomede/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/joaomede)
+
+---
+
+<p align="center">🚧 Always evolving... more projects coming soon! 🚀</p>
