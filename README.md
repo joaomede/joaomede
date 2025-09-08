@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-I'm a technology enthusiast focused on systems development, with a postgraduate degree in **Data Science – Analysis and Statistics**. I’m passionate about exploring new ideas, working with modern stacks, and building robust, scalable solutions with attention to testing and clean architecture.
+I'm a technology enthusiast focused on systems development, with a postgraduate degree in **Data Science – Analysis and Statistics**. I'm passionate about exploring new ideas, working with modern stacks, and building robust, scalable solutions with attention to testing and clean architecture.
 
 - 🎓 Postgraduate in Data Science: Analysis & Statistics
 - 🌱 Always learning: Modern frontend, modular backend, scalable architecture, and data engineering.
@@ -28,10 +28,16 @@ I'm a technology enthusiast focused on systems development, with a postgraduate 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
 ### 🧩 Featured Projects
+
+#### 🔥 Infrastructure & Backend
+
+- **[MCP Hub](https://github.com/joaomede/mcp-hub)**  
+  _Python + Model Context Protocol + Docker_ — A powerful MCP Gateway for aggregating multiple Model Context Protocol servers into a single endpoint. Provides unified access, authentication, and hot-reload capabilities for MCP infrastructure management.
 
 #### 🔍 Frontend & Fullstack
 
