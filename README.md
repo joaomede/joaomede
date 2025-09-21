@@ -34,11 +34,6 @@ I'm a technology enthusiast focused on systems development, with a postgraduate 
 
 ### 🧩 Featured Projects
 
-#### 🔥 Infrastructure & Backend
-
-- **[MCP Hub](https://github.com/joaomede/mcp-hub)**  
-  _Python + Model Context Protocol + Docker_ — A powerful MCP Gateway for aggregating multiple Model Context Protocol servers into a single endpoint. Provides unified access, authentication, and hot-reload capabilities for MCP infrastructure management.
-
 #### 🔍 Frontend & Fullstack
 
 - **[GitHub Manager Explore](https://github.com/joaomede/github-manager-explore)**  
